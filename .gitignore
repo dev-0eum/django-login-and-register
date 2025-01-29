@@ -11,4 +11,8 @@ tmp/
 
 db.sqlite3
 
+# github에 올려도 추적이 되지 않는 것들을 의미.
+# 옆에 음영처리된 것들이 ignore에 해당.
+# .env를 사용해서 여러가지 secret Key들을 써둘 수 있음.
+# 단, import os를 사용해서 path를 지정해줘야함.
 venv/
