@@ -1,4 +1,4 @@
-from django.conf import settings
+from django.conf import settings 
 from django.contrib import messages
 from django.contrib.auth import REDIRECT_FIELD_NAME, authenticate, login
 from django.contrib.auth.mixins import LoginRequiredMixin
